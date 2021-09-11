@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nurdankar
-- 👀 I’m interested in Computational Oncology
+- 👀 I’m interested in Computational Biology
 - 🌱 I’m currently learning Python, Supervised Learning, Classification Problem
 - 📫 How to reach me nurdankar91@gmail.com
 
