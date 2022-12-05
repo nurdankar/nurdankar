@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nurdankar
 - 👀 I’m interested in Computational Biology
-- 🌱 I’m currently learning Python, Supervised Learning, Classification Problem
+- 🌱 I’m currently learning Python
 - 📫 How to reach me kar@ankara.edu.tr
 
 <!---
