@@ -1,7 +1,7 @@
 - Welcome!
-- I am a mathematician working in the field of cancer dynamics.
-- I employ mathematical equations, numerical methods, and Python as essential tools in my research.
-- I am recently intrigued by exploring interdisciplinary approaches for cancer systems such as biostatistics or bioinformatics.
+- As a mathematician, my current focus lies in the dynamics of brain cancer.
+- I employ mathematical equations, numerical methods, and Python as essential tools in my ongoing research.
+- I am keen on interdisciplinary approaches to cancer biology.
 - You can reach me through my LinkedIn or Twitter accounts, which are linked in my profile.
 
 <!---
